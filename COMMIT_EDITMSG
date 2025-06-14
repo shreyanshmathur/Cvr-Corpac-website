@@ -1,0 +1,7 @@
+Enhance knowledge pool previews and address display issues with article content
+
+Updates KnowledgePool component to render document previews in a blog-like format within a Dialog component, adds clickability to titles, and replaces X icon.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0912317a-6530-40c0-b767-1e2e177166c7
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/bfe72f4f-6f60-477d-a38c-0fc3049a8cd3/52e6a234-edb6-4445-a5b1-59805c40d2c0.jpg
